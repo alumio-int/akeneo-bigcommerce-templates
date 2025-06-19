@@ -1,0 +1,19 @@
+{
+  "name": "Akeneo to Alumio - Complex Product and Family Axes Import",
+  "description": "Import Akeneo complex product data and family axes attribute into Alumio storage.",
+  "source_system": "Akeneo",
+  "target_system": "Alumio",
+  "tags": [
+    "product",
+    "import",
+    "akeneo",
+    "alumio",
+    "variant",
+    "children",
+    "attribute",
+    "family",
+    "axes"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.89.0-RC3"
+}
