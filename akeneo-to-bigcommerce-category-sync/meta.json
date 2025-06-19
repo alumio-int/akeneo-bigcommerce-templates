@@ -1,0 +1,14 @@
+{
+  "name": "Alumio to BigCommerce - Categories Sync",
+  "description": "Sync Categories from Akeneo into BigCommerce.",
+  "source_system": "Alumio",
+  "target_system": "BigCommerce",
+  "tags": [
+    "category",
+    "sync",
+    "akeneo",
+    "bigcommerce"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.89.0-RC3"
+}
