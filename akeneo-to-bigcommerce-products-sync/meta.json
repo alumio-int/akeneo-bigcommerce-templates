@@ -1,0 +1,17 @@
+{
+  "name": "Alumio to BigCommerce – Product Sync",
+  "description": "Sync full product data from Akeneo into BigCommerce product & variants using the Akeneo & BigCommerce API.",
+  "source_system": "Alumio",
+  "target_system": "BigCommerce",
+  "tags": [
+    "product",
+    "simple-product",
+    "sync",
+    "akeneo",
+    "bigcommerce",
+    "variants",
+    "publish"
+  ],
+  "version": "1.0.0",
+  "alumio_version": "3.89.0-RC3"
+}
